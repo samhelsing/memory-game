@@ -1,0 +1,14 @@
+#grid{
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px 100px;
+    justify-content: center;
+
+}
+
+#grid-items{
+    justify-content: center;
+    background-color:cornflowerblue;
+    border: 2px solid rgb(87, 85, 85);
+    padding: 5px;
+}
